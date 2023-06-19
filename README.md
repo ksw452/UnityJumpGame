@@ -1,3 +1,3 @@
 # UnityJumpGame
 
-// jumpgame
+점프게임
